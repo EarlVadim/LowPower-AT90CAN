@@ -14,9 +14,7 @@ void setup()
 
 void loop() 
 {
-  // Enter idle state for 8 s with the rest of peripherals turned off
-  // Each microcontroller comes with different number of peripherals
-  // Comment off line of code where necessary
+  // After every 5 seconds of operation, the microcontroller is switched to the Power_save (1) or Idle (0) mode for 3 seconds.
   
   Serial1.println("Loop...");
   
