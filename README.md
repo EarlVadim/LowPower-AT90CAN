@@ -1,6 +1,5 @@
 ### Low-Power
 Lightweight LowPower library for AT90CAN.
-Earl_Vadim.
 
 Version: 1.00
 
@@ -13,4 +12,3 @@ Devices Supported:
 
 
 ####Notes:
-
